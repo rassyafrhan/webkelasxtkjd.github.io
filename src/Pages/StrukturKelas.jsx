@@ -73,7 +73,7 @@ const StrukturKelas = () => {
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<div className="relative right-[0.2rem]">
-						<BorderStruktur Jabatan="Wakil Ketua" Nama="Ihsan" Width="120px" />
+						<BorderStruktur Jabatan="Wakil Ketua" Nama="Nabil" Width="120px" />
 					</div>
 				</div>
 
@@ -130,13 +130,13 @@ const StrukturKelas = () => {
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Sekertaris" Nama="Anisa" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Ilma" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Yolanda" Width="120px" />
 					</div>
 
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Bendahara" Nama="Amanda" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Yolanda" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Ilma" Width="120px" />
 					</div>
 				</div>
 
@@ -200,13 +200,13 @@ const StrukturKelas = () => {
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Keamanan" Nama="Rangga" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Nabil" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Rafli" Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Kebersihan" Nama="Rafli" Width="120px" />
+						<BorderStruktur Jabatan="Kebersihan" Nama="Ihsan" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Yana" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Malika" Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
@@ -315,7 +315,7 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Peralatan" Nama="Malika" Width="120px" />
+						<BorderStruktur Jabatan="Peralatan" Nama="Yana" Width="120px" />
 					</div>
 
 					<div className="flex-col">
